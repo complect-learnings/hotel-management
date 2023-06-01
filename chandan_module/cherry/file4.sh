@@ -1,9 +1,10 @@
 #!/bin/bash
+#
+#
 
 
+echo "Lets see our cureent working directory and the files"
 
-a=4
-b=5
-
-echo "hi cherry $a+$b"
+pwd
+ls -lrt
 
