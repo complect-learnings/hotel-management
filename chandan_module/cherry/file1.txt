@@ -1,4 +1,13 @@
 #!/bin/bash
 
-echo "hi chandan"
+# echo "hi chandan"
+
+name="Chanadan"
+readonly name
+
+echo "Hi $name nice to meeet you."
+#name="cherry"
+
+#unset name
+# 
 
